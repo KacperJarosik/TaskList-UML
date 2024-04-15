@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T16:43:15.467Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="4y5Rt3vQjhB5DcKYemtf" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-15T16:45:16.398Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="25Wz8KAQ6WWx2lhsGqT5" version="24.1.0" type="github">
   <diagram name="Strona-1" id="91CV94bHE18N9bor837x">
     <mxGraphModel dx="2501" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,9 +124,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mU1lm-ajrZcSPC9ihISV-49" value="lista kolorów" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="110" y="-570" width="110" height="50" as="geometry" />
+          <mxGeometry x="120" y="-470" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mU1lm-ajrZcSPC9ihISV-51" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;" edge="1" parent="1" source="mU1lm-ajrZcSPC9ihISV-49" target="mU1lm-ajrZcSPC9ihISV-4">
+        <mxCell id="mU1lm-ajrZcSPC9ihISV-51" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="mU1lm-ajrZcSPC9ihISV-49" target="mU1lm-ajrZcSPC9ihISV-4">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="152" y="-380" as="sourcePoint" />
             <mxPoint x="212" y="-389" as="targetPoint" />
@@ -151,7 +151,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mU1lm-ajrZcSPC9ihISV-55" value="plik źródłowy" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="110" y="-430" width="110" height="50" as="geometry" />
+          <mxGeometry x="120" y="-380" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mU1lm-ajrZcSPC9ihISV-56" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;" edge="1" parent="1" source="mU1lm-ajrZcSPC9ihISV-55" target="mU1lm-ajrZcSPC9ihISV-4">
           <mxGeometry width="160" relative="1" as="geometry">
